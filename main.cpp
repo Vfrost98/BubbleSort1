@@ -27,7 +27,7 @@ int main() {
   
   cout << endl;
 
-  bubbleSort(A,aSized);
+  bubbleSort(A,aSized); //calling the bubble sort function
 
   cout << endl;
 
