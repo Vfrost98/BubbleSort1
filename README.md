@@ -1,2 +1,3 @@
-# BubbleSort1
-Simple bubble sort implementation in C++
+# BubbleSort 
+
+Simple example of the bubble sort implementation in C++.
